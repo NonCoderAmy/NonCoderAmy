@@ -1,14 +1,4 @@
-#title {
-    color: rgb(255, 0, 221)
-}
-
-blue{
-    color: blue
-}
-
-h2 {
-    color:aquamarine
-}
-::backdrop {
-    color: #00CED1
+body{
+    background-color: rgb(27, 187, 198);
+    color: white
 }
