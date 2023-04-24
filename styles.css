@@ -2,10 +2,13 @@
     color: rgb(255, 0, 221)
 }
 
-.blue{
+blue{
     color: blue
 }
 
 h2 {
     color:aquamarine
+}
+::backdrop {
+    color: #00CED1
 }
